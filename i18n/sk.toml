@@ -1,0 +1,62 @@
+[test]
+other = "Slovensky text"
+
+[posts]
+other = "Články"
+
+[galleries]
+other = "Galérie"
+
+[series]
+other = "Série"
+
+[categories]
+other = "Kategórie"
+
+[tags]
+other = "Značky"
+
+[see-more]
+other = "Zobraziť viac"
+
+[next-pages]
+other = "Ďalšie"
+
+[prev-pages]
+other = "Predchádzajúce"
+
+[welcome]
+other = "Vitajte"
+
+[welcome-text]
+other = "Vitajte na mojom blogu, kde si zapisujem zápisky z môjho života, technológii, cestovania a ďalších."
+
+[about-me]
+other = "O Mne"
+
+[landing-page]
+other = "Hlavná Stránka"
+
+[build-using]
+other = "Vytvorené nástrojom"
+
+[all-categories]
+other = "Všetky kategórie"
+
+[post-count]
+other = "Počet článkov"
+
+[all-tags]
+other = "Kľúčové slová"
+
+[all-series]
+other = "Všetky série"
+
+[of]
+other = "z"
+
+[table-of-content]
+other = "Obsah"
+
+[read-in-other-language]
+other = "Čítať v inom jazyku"

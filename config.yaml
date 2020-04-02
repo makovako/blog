@@ -1,0 +1,27 @@
+baseURL: "https://blog.makovako.xyz/"
+languageCode: en-us
+title: My Blog
+theme: makovako-blog-theme
+paginate: 12
+staticDir: static
+relativeURLs: true
+# contentDir: content
+
+params:
+    DateFormat: "12:50, 20.2.2009"
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+languages:
+    en:
+        title: My blog
+        weight: 1
+    sk:
+        title: Môj blog
+        weight: 2
+            
+
+
