@@ -1,8 +1,10 @@
 ---
 title: "Python vs Javascript - Úvod"
 date: 2020-04-15T16:00:00+01:00
-draft: false
+draft: true
 type: 'post'
+series:
+  - python-vs-javascript-sk
 categories:
   - technologie
 tags:
