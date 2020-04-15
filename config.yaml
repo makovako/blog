@@ -13,7 +13,7 @@ params:
 taxonomies:
     category: categories
     tag: tags
-    series: series
+    serie: series
 
 languages:
     en:
